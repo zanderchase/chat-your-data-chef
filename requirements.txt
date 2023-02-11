@@ -1,0 +1,7 @@
+langchain
+openai
+unstructured
+faiss-cpu
+requests
+beautifulsoup4
+selenium
